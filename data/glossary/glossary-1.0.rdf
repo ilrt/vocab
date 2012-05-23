@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+Produced by java-rdfa 0.4.1
+Origin: <http://vocab.bris.ac.uk/data/glossary/>
+-->
+<wstxns1:RDF xmlns:wstxns1="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/">
+	<ns:icon xmlns:ns="http://www.w3.org/1999/xhtml/vocab#" rdf:resource="http://vocab.bris.ac.uk/data/images/favicon.gif" />
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/">
+	<ns:type xmlns:ns="http://purl.org/dc/terms/" rdf:resource="http://purl.org/dc/dcmitype/Text" />
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/">
+	<ns:title xmlns:ns="http://purl.org/dc/terms/" xml:lang="en">Research Data Management Glossary</ns:title>
+</rdf:Description>
+<rdf:Description rdf:about="http://data.bris.ac.uk">
+	<ns:attributionName xmlns:ns="http://creativecommons.org/ns#" xml:lang="en">data.bris</ns:attributionName>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/">
+	<ns:license xmlns:ns="http://www.w3.org/1999/xhtml/vocab#" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/">
+	<ns:license xmlns:ns="http://www.w3.org/1999/xhtml/vocab#" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#archive">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Archive</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#archive">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A collection of data and/or records stored with a view to long-term preservation.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#backup">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Backup</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#backup">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A copy of data or software which can be used to recover and restore it if the main copy is unusable.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#born-digital">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Born digital</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#born-digital">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Refers to materials that originated in a digital form, rather than those that were derived from a physical form (for example by being scanned or transcribed).</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#collection-level-description">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Collection-level description</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#collection-level-description">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A set of metadata describing a collection of data as a whole, as opposed to than individual items within it.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#controlled-vocabulary">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Controlled vocabulary</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#controlled-vocabulary">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A type of vocabulary scheme which mandates the use of predefined, authorised terms which have been selected by the designer of the vocabulary, in contrast to natural language vocabularies, where there is no restriction on the vocabulary.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#cc-licences">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Creative Commons licences</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#cc-licences">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A means of managing the terms which are automatically attached to copyrighted works, including research data. The suite of licences offered by the Creative Commons organisation enables and encourages the re-use, sharing and distribution of works. For example, when applied to your work, the ‘By-Attribution, Non-Commercial' licence allows other to use and build upon your data, although their new work must acknowledge you and not be used for commercial purposes.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#curation">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Curation (or data curation)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#curation">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The process of actively managing data, from the point of creation through all the stages in its existence, to ensure it is accessible and fit for purpose.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-cleaning">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Data cleaning</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-cleaning">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Deleting or editing corrupt or inaccurate parts of data, in order to achieve data integrity.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-integrity">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Data integrity</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-integrity">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The completeness, accuracy and freedom from error of a data set.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-protection">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Data protection</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-protection">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The appropriate management and processing of data which identifies individuals.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#dpa-1998">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Data Protection Act 1998 (DPA 1998)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#dpa-1998">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A United Kingdom Act of Parliament which defines UK law on the processing of data or information concerning individuals, including the obtaining, holding, use or disclosure of such information. The Act is the main piece of UK legislation which governs individuals' rights over their personal data, and also protects individuals from the misuse of their personal data. The Act also requires that those who handle and process personal data should comply with a number of important principles and legal obligations.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-repository">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Data repository</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-repository">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">See Repository.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#dataset">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Dataset (or data set)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#dataset">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A defined collection of data with common elements.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-steward">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Data Steward</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-steward">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">An employee of the University who is responsible for the lifecycle of a set of research data, usually the Principal Investigator (PI) of the project.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-service">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Data service</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#data-service">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">An online digital repository relating to a particular discipline or disciplines. In the UK, these are typically funded by one or more Research Councils.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#deposit">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Deposit (or Data deposit)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#deposit">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The process of committing data to a repository or other storage facility.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#doi">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Digital Object Identifier (DOI)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#doi">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A name which provides a means of persistently identifying a digital object, which may be a dataset, and associating it with related current data in a structured extensible way.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#digital-preservation">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Digital preservation</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#digital-preservation">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The set of processes, activities and management of digital information over time to ensure its long-term accessibility. Because of the relatively short lifecycle of digital information, preservation is an ongoing process.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#embargo">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Embargo</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#embargo">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A period during which access to research data is not allowed to certain types of users. This is either to protect the revenue of the publisher or (more generally) to protect the interests of other parties (for example, partner research organisations).</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#encryption">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Encryption (or Data encryption)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#encryption">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Encoding or other modification of data in order to protect it from unauthorised access and/or changes.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#foi">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Freedom of Information (FOI)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#foi">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The right of the general public to access information held by public authorities (including universities). In the UK, FOI is governed by the Freedom of Information Act 2000.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#ingest">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Ingest (or Data ingest)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#ingest">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The transferral of data to a repository, archive or other storage.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#institutional-repository">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Institutional repository</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#institutional-repository">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">An online locus for collecting, preserving, and disseminating materials such as journal articles and digital versions of theses and dissertations. It might also include other digital resources generated by a research institution such as administrative documents, course notes or learning objects.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#information-security">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Information security</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#information-security">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The protection of information and information systems from unauthorised access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction. Within the University of Bristol information is classified as either Public, Open, Confidential, Strictly confidential or Secret.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#ipr">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Intellectual Property Rights (IPR)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#ipr">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The legal rights which individuals and institutions have over their intellectual property, determining who can copy, distribute, adapt, use, or profit from it.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#interoperability">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Interoperability</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#interoperability">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The ability of diverse systems, content and organisations to work together (inter-operate).</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#keyword">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Keyword</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#keyword">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A piece of metadata consisting of a short term classifying the content of all or part of some data.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#lifecycle">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Lifecycle (or Curation lifecycle)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#lifecycle">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The complete history of a piece of data and its curation, from creation onwards, conceived as a series of steps or stages.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#metadata">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Metadata</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#metadata">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Structured data about data.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#metatdata-element">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Metadata element</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#metatdata-element">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A particular property of a piece of data, used as metadata.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#metadata-schema">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Metadata schema</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#metadata-schema">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A framework specifying which metadata elements can or should accompany particular types of data, and the meanings of those elements.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#migration">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Migration (or Digital migration)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#migration">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The transfer of data from one format or software platform to another.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#open-source">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Open source (antonym: proprietary)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#open-source">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A philosophy which promotes free redistribution of and access to an end product, its design and implementation details.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#open-data">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Open data</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#open-data">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">The idea that certain data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, &lt;a xmlns="http://www.w3.org/1999/xhtml" href="http://en.wikipedia.org/wiki/Patent" xml:lang="en">patents&lt;/a>  or other mechanisms of intellectual property control.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#persistent-identifier">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Persistent identifier</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#persistent-identifier">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A name, such as a DOI, which identifies an object unambiguously and permanently.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#preservation">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Preservation (or Digital preservation)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#preservation">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The process of ensuring that digital files are available and comprehensible in the long term.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#repository">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Repository (or Digital repository)</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#repository">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A facility where data may be deposited and preserved safely, with regulated access to it.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#research-data">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Research data</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#research-data">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Data, or units of information which are created in the course of funded or unfunded research, and often arranged or formatted in a such a way as to make them suitable for communication, interpretation, and processing, perhaps by a computer. Examples of research data may include a spreadsheet of statistics, a series of email messages, a sound recording of an interview, a rock specimen or a collection of digital images. Research data does not include data generated in the course of personal activities, desktop or mailbox backups, or data produced by non-research activities such as University administration and teaching.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#research-data">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">In other words: Research data is digital information created in the course of research but which isn't a published research output (see below). Research data excludes purely administrative records. The highest priority research data is that which underpins a research output.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#research-information">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Research information</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#research-information">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Administrative information relating to the research process. Examples include staff profiles and financial information.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#research-output">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Research output</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#research-output">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">According to the RAE, assessable research output contains an element of innovation, contributes to scholarship, is publicly accessible and is generalisable. Research output is not limited to texts.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#tag">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Tag</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#tag">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">A non-hierarchical and non-taxonomic keyword which may be included in the metadata for a piece of data or dataset.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#versioning">
+	<ns:prefLabel xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">Versioning</ns:prefLabel>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#versioning">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" xml:lang="en">The management of different versions of data or software, for example by a naming scheme.</ns:definition>
+</rdf:Description>
+<rdf:Description rdf:about="http://vocab.bris.ac.uk/data/glossary/#versioning">
+	<ns:definition xmlns:ns="http://www.w3.org/2004/02/skos/core#" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">This glossary was produced by the &lt;a xmlns="http://www.w3.org/1999/xhtml" href="http://data.bris.ac.uk/" xml:lang="en">data.bris&lt;/a> project at the University of Bristol, part-funded by JISC as part of its &lt;a xmlns="http://www.w3.org/1999/xhtml" href="http://www.jisc.ac.uk/whatwedo/programmes/mrd.aspx" xml:lang="en">Research Data Management programme&lt;/a>.
+The authors would like to acknowledge the following prior work on Research Data Management which has informed and influenced this glossary.</ns:definition>
+</rdf:Description>
+</wstxns1:RDF>
