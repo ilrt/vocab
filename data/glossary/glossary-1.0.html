@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
-<html lang="en" dir="ltr">
+<html lang="en" dir="ltr" xml:lang="en">
 <head>
   <title>Research Data Management Glossary</title>
-  <link rel="alternate" type="application/rdf+xml" href="index.rdf">
+  <link rel="alternate" type="application/rdf+xml" href="index.rdf" />
 <style type="text/css">
 body {
   padding: 2em 1em 2em 76px;
@@ -50,7 +50,7 @@ body {
 
   <h1>Research Data Management Glossary</h1>
   
-  <h2><a href="http://data.bris.ac.uk">data.bris</a>, 11 May 2012</h2>
+  <h2><a href="http://data.bris.ac.uk">data.bris</a>, 14 May 2013</h2>
 
    <dl>
     <dt>This Version:</dt>
@@ -68,7 +68,7 @@ body {
       <a href="http://www.bris.ac.uk/ilrt/people/stephen-r-gray">Stephen Gray</a>
     </dd>
    </dl>
-   <p class="copyright">Copyright &#169; 2012 University of Bristol. All rights reserved.</p>
+   <p class="copyright">Copyright &#169; 2013 University of Bristol. All rights reserved.</p>
 
    <p class="copyright"><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Research Data Management Glossary</span> by <a href="http://data.bris.ac.uk"><span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">data.bris</span></a> is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">License</a>.
 <br/>
@@ -136,11 +136,6 @@ body {
 <p property="skos:definition">See Repository.</p>
 </div>
 
-<div about="#dataset" type="skos:Concept">
-<p><strong property="skos:prefLabel">Dataset (or data set)</strong></p>
-<p property="skos:definition">A defined collection of data with common elements.</p>
-</div>
-
 <div about="#data-steward" type="skos:Concept">
 <p><strong property="skos:prefLabel">Data Steward</strong></p>
 <p property="skos:definition">An employee of the University who is responsible for the lifecycle of a set of research data, usually the Principal Investigator (PI) of the project.</p>
@@ -149,6 +144,23 @@ body {
 <div about="#data-service" type="skos:Concept">
 <p><strong property="skos:prefLabel">Data service</strong></p>
 <p property="skos:definition">An online digital repository relating to a particular discipline or disciplines. In the UK, these are typically funded by one or more Research Councils.</p>
+</div>
+
+<div about="#data-sharing" type="skos:Concept">
+<p><strong property="skos:prefLabel">Data sharing</strong></p>
+<p property="skos:definition">The act of making data available to people other than those who
+originally produced it or used it for their research'.</p>
+</div>
+
+<div about="#data-management-plan" type="skos:Concept">
+<p><strong property="skos:prefLabel">Data management plan</strong></p>
+<p property="skos:definition">A description of how the data produced by a research project will be
+handled and curated both during and after the project.</p>
+</div>
+
+<div about="#dataset" type="skos:Concept">
+<p><strong property="skos:prefLabel">Dataset (or data set)</strong></p>
+<p property="skos:definition">A defined collection of data with common elements.</p>
 </div>
 
 <div about="#deposit" type="skos:Concept">
@@ -264,7 +276,7 @@ body {
 <div about="#research-data" type="skos:Concept">
 <p><strong property="skos:prefLabel">Research data</strong></p>
 <p property="skos:definition">Data, or units of information which are created in the course of funded or unfunded research, and often arranged or formatted in a such a way as to make them suitable for communication, interpretation, and processing, perhaps by a computer. Examples of research data may include a spreadsheet of statistics, a series of email messages, a sound recording of an interview, a rock specimen or a collection of digital images. Research data does not include data generated in the course of personal activities, desktop or mailbox backups, or data produced by non-research activities such as University administration and teaching.</p>
-<p property="skos:definition">In other words: Research data is digital information created in the course of research but which isn't a published research output (see below). Research data excludes purely administrative records. The highest priority research data is that which underpins a research output.</p>
+<p>In other words: Research data is digital information created in the course of research but which isn't a published research output (see below). Research data excludes purely administrative records. The highest priority research data is that which underpins a research output.</p>
 </div>
 
 <div about="#research-information" type="skos:Concept">
@@ -277,6 +289,12 @@ body {
 <p property="skos:definition">According to the RAE, assessable research output contains an element of innovation, contributes to scholarship, is publicly accessible and is generalisable. Research output is not limited to texts.</p>
 </div>
 
+<div about="#sustainability" type="skos:Concept">
+<p><strong property="skos:prefLabel">Sustainability</strong></p>
+<p property="skos:definition">The process of ensuring that digital outputs remain publicly
+accessible and usable beyond the end of funding.</p>
+</div>
+
 <div about="#tag" type="skos:Concept">
 <p><strong property="skos:prefLabel">Tag</strong></p>
 <p property="skos:definition">A non-hierarchical and non-taxonomic keyword which may be included in the metadata for a piece of data or dataset.</p>
@@ -285,9 +303,10 @@ body {
 <div about="#versioning" type="skos:Concept">
 <p><strong property="skos:prefLabel">Versioning</strong></p>
 <p property="skos:definition">The management of different versions of data or software, for example by a naming scheme.</p>
+</div>
 
 <h2>Acknowledgements</h2>
-<p property="skos:definition">This glossary was produced by the <a href="http://data.bris.ac.uk/">data.bris</a> project at the University of Bristol, part-funded by JISC as part of its <a href="http://www.jisc.ac.uk/whatwedo/programmes/mrd.aspx">Research Data Management programme</a>.
+<p property="skos:historyNote">This glossary was produced by the <a href="http://data.bris.ac.uk/">data.bris</a> project at the University of Bristol, part-funded by JISC as part of its <a href="http://www.jisc.ac.uk/whatwedo/programmes/mrd.aspx">Research Data Management programme</a>.
 The authors would like to acknowledge the following prior work on Research Data Management which has informed and influenced this glossary.</p>
 <ul>
 <li>Research Data Management glossary, Cambridge University<br />
